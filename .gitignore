@@ -1,0 +1,4 @@
+# ignore pycaches
+__pycache__/
+.venv/
+logs/
